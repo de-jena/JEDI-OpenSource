@@ -39,7 +39,7 @@ Alle nachfolgenden Punkte sind aktuell noch als Entwurf zu verstehen.
 * Dataspaces/GAIA-X
 * Open Source als gelebte Demokratie
 
-## Vertretter
+## Vertreter
 
 Sprecher: [Jürgen Albert](@juergen-albert) - [Data In Motion Consulting GmbH](https://www.datainmotion.de)
 Co-Sprecher: [Stefan Bischof](@bipolis) - privat
